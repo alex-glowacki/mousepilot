@@ -1,7 +1,8 @@
 # src/mousepilot/__main__.py
 
-def main() -> int:
-    return
+# Local application
+from mousepilot.app import main
+
 
 if __name__ == "__main__":
     raise SystemExit(main())

@@ -20,7 +20,7 @@ dependencies = [
     "pyperclip==1.11.0",
     "PyRect==0.2.0",
     "PyScreeze==1.0.1",
-    "pytweening==1.2.0]",
+    "pytweening==1.2.0"
 ]
 
 [project.scripts]
