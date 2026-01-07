@@ -1,0 +1,1 @@
+# src/mousepilot/__init__.py

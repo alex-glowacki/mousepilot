@@ -1,0 +1,1 @@
+# src/mousepilot/app.py
